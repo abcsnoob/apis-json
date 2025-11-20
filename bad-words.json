@@ -1,3 +1,64 @@
-[
-    "địt mẹ"
-]
+{
+  "swear_words": [
+  {"word": "fuck", "reason": "Tục tĩu, không phù hợp trẻ em"},
+  {"word": "shit", "reason": "Tục tĩu, không phù hợp trẻ em"},
+  {"word": "bitch", "reason": "Xúc phạm, tục tĩu"},
+  {"word": "asshole", "reason": "Xúc phạm, tục tĩu"},
+  {"word": "cunt", "reason": "Tục tĩu, xúc phạm nghiêm trọng"},
+  {"word": "dick", "reason": "Tục tĩu, nhạy cảm giới tính"},
+  {"word": "pussy", "reason": "Tục tĩu, nhạy cảm giới tính"},
+  {"word": "faggot", "reason": "Xúc phạm đồng tính, vi phạm chính sách"},
+  {"word": "bastard", "reason": "Xúc phạm, tục tĩu"},
+  {"word": "damn", "reason": "Tục tĩu, không phù hợp trẻ em"},
+  {"word": "hell", "reason": "Tục tĩu, không phù hợp trẻ em"},
+  {"word": "prick", "reason": "Tục tĩu, xúc phạm"},
+  {"word": "slut", "reason": "Xúc phạm, tục tĩu"},
+  {"word": "whore", "reason": "Xúc phạm, tục tĩu"}
+  ],
+
+  "violence": [
+  {"word": "kill", "reason": "Kích động bạo lực"},
+  {"word": "murder", "reason": "Kích động bạo lực"},
+  {"word": "bomb", "reason": "Kích động khủng bố"},
+  {"word": "shoot", "reason": "Kích động bạo lực"},
+  {"word": "stab", "reason": "Kích động bạo lực"},
+  {"word": "suicide", "reason": "Gây nguy hiểm cho bản thân"},
+  {"word": "terrorist", "reason": "Kích động khủng bố"},
+  {"word": "attack", "reason": "Kích động bạo lực"},
+  {"word": "explode", "reason": "Kích động bạo lực hoặc khủng bố"}
+  ],
+
+  "illegal_content": [
+  {"word": "drugs", "reason": "Liên quan chất cấm"},
+  {"word": "cocaine", "reason": "Liên quan chất cấm"},
+  {"word": "heroin", "reason": "Liên quan chất cấm"},
+  {"word": "meth", "reason": "Liên quan chất cấm"},
+  {"word": "prostitute", "reason": "Mại dâm, bất hợp pháp"},
+  {"word": "escort", "reason": "Dịch vụ người lớn, bất hợp pháp"},
+  {"word": "child porn", "reason": "Liên quan lạm dụng trẻ em, nghiêm cấm"},
+  {"word": "pedo", "reason": "Liên quan lạm dụng trẻ em, nghiêm cấm"},
+  {"word": "abuse", "reason": "Lạm dụng người khác, vi phạm pháp luật"}
+  ],
+
+  "hate_speech": [
+  {"word": "nazi", "reason": "Chủ nghĩa cực đoan, phân biệt"},
+  {"word": "hitler", "reason": "Chủ nghĩa cực đoan, phân biệt"},
+  {"word": "racist", "reason": "Phân biệt chủng tộc"},
+  {"word": "homophobe", "reason": "Xúc phạm người đồng tính"},
+  {"word": "slavery", "reason": "Kích động thù ghét"},
+  {"word": "islamaphobe", "reason": "Xúc phạm tôn giáo"},
+  {"word": "kike", "reason": "Chống Do Thái, phân biệt"}
+  ],
+
+  "inappropriate_for_children": [
+  {"word": "sex", "reason": "Nội dung tình dục, không phù hợp trẻ em"},
+  {"word": "porn", "reason": "Nội dung khiêu dâm, không phù hợp trẻ em"},
+  {"word": "naked", "reason": "Hình ảnh nhạy cảm, không phù hợp trẻ em"},
+  {"word": "boobs", "reason": "Nội dung nhạy cảm, không phù hợp trẻ em"},
+  {"word": "ass", "reason": "Tục tĩu, nhạy cảm giới tính"},
+  {"word": "dating", "reason": "Không phù hợp trẻ em"},
+  {"word": "hookup", "reason": "Không phù hợp trẻ em"},
+  {"word": "sexting", "reason": "Nội dung nhạy cảm, không phù hợp trẻ em"},
+  {"word": "fetish", "reason": "Nội dung nhạy cảm, không phù hợp trẻ em"}
+  ]
+}
