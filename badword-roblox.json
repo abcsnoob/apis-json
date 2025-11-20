@@ -1,0 +1,39 @@
+{
+  "swear_words": [
+    {"word": "fuck", "reason": "Từ tục tĩu, không phù hợp trẻ em"},
+    {"word": "shit", "reason": "Từ tục tĩu, không phù hợp trẻ em"},
+    {"word": "bitch", "reason": "Từ xúc phạm, tục tĩu"},
+    {"word": "asshole", "reason": "Từ xúc phạm, tục tĩu"},
+    {"word": "damn", "reason": "Từ tục tĩu, không phù hợp trẻ em"},
+    {"word": "cunt", "reason": "Từ tục tĩu, xúc phạm nghiêm trọng"},
+    {"word": "dick", "reason": "Từ tục tĩu, nhạy cảm giới tính"},
+    {"word": "pussy", "reason": "Từ tục tĩu, nhạy cảm giới tính"},
+    {"word": "faggot", "reason": "Từ xúc phạm đồng tính, vi phạm chính sách"},
+    {"word": "bastard", "reason": "Từ xúc phạm, tục tĩu"}
+  ],
+  "policy_violations": [
+    {"word": "kill", "reason": "Kích động bạo lực, vi phạm chính sách"},
+    {"word": "murder", "reason": "Kích động bạo lực, vi phạm chính sách"},
+    {"word": "rape", "reason": "Xâm hại tình dục, vi phạm chính sách"},
+    {"word": "drugs", "reason": "Liên quan chất cấm, vi phạm chính sách"},
+    {"word": "cocaine", "reason": "Liên quan chất cấm, vi phạm chính sách"},
+    {"word": "heroin", "reason": "Liên quan chất cấm, vi phạm chính sách"},
+    {"word": "terrorist", "reason": "Liên quan khủng bố, vi phạm chính sách"},
+    {"word": "bomb", "reason": "Kích động bạo lực, vi phạm chính sách"},
+    {"word": "suicide", "reason": "Gây nguy hiểm cho bản thân, vi phạm chính sách"},
+    {"word": "racist", "reason": "Phân biệt chủng tộc, vi phạm chính sách"},
+    {"word": "nazi", "reason": "Liên quan chủ nghĩa cực đoan, vi phạm chính sách"},
+    {"word": "hitler", "reason": "Liên quan chủ nghĩa cực đoan, vi phạm chính sách"}
+  ],
+  "inappropriate_content": [
+    {"word": "sex", "reason": "Nội dung tình dục, không phù hợp trẻ em"},
+    {"word": "porn", "reason": "Nội dung khiêu dâm, không phù hợp trẻ em"},
+    {"word": "naked", "reason": "Hình ảnh nhạy cảm, không phù hợp trẻ em"},
+    {"word": "escort", "reason": "Dịch vụ người lớn, không phù hợp trẻ em"},
+    {"word": "prostitute", "reason": "Dịch vụ người lớn, không phù hợp trẻ em"},
+    {"word": "pedo", "reason": "Liên quan trẻ em, nghiêm cấm"},
+    {"word": "child abuse", "reason": "Lạm dụng trẻ em, nghiêm cấm"},
+    {"word": "dating", "reason": "Không phù hợp trẻ em"},
+    {"word": "hookup", "reason": "Không phù hợp trẻ em"}
+  ]
+}
