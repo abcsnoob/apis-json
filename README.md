@@ -1,7 +1,7 @@
 
 # APIS-JSON
 Nơi cung cấp các file JSON luôn luôn chất lượng để sử dụng cho kiểm duyệt và quản lý dữ liệu.
-Bạn có thể fork về và edit sao cho hợp lí rồi liên hệ với mình qua [abcsspprt@gmail.com](mailto:abcsspprt@gmail.com) hoặc là [+84 772554682](tel:+84772554682). Đừng liên hệ vào số này trừ khi cần ngay!
+Bạn có thể fork về và edit sao cho hợp lí rồi liên hệ với mình qua [abcsspprt@gmail.com](mailto:abcsspprt@gmail.com) hoặc là [abcsgamers@gmail.com](mailto:abcsgamers@gmail.com)
 ## Các API khả dụng
 
 1. **Kiểm duyệt từ chung**  
