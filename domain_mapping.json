@@ -165,7 +165,7 @@
   "owasp.org": { "name": "OWASP" },
   "paramountplus.com": { "name": "Paramount+" },
   "patreon.com": { "name": "Patreon" },
-  "paypal.com": { "name": "PayPal" },
+  "paypal.com": { "name": "PayPal" }, "aka": ["paypal.me"] },
   "perplexity.ai": { "name": "Perplexity AI" },
   "phantom.app": { "name": "Phantom" },
   "picsart.com": { "name": "Picsart" },
