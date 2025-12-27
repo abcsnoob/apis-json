@@ -34,7 +34,7 @@
   "chinhphu.vn": { "name": "Cổng thông tin điện tử Chính phủ Việt Nam" },
   "cloudflare.com": { "name": "Cloudflare" },
   "cnn.com": { "name": "CNN" },
-  "cococ.com": { "name": "Cốc Cốc", "aka": ["cocococ.com"] },
+  "coccoc.com": { "name": "Cốc Cốc", "aka": ["coccoc.com"] },
   "codepen.io": { "name": "CodePen" },
   "coinbase.com": { "name": "Coinbase" },
   "coingecko.com": { "name": "CoinGecko" },
@@ -246,5 +246,36 @@
   "worldbank.org": { "name": "World Bank" },
   "wsj.com": { "name": "The Wall Street Journal" },
   "zalo.me": { "name": "Zalo", "aka": ["zalopay.vn"] },
-  "zoom.us": { "name": "Zoom" }
+  "zoom.us": { "name": "Zoom" },
+  
+  "dangerous_sites": {
+    "name": "Warning: Dangerous Site",
+    "type": "Scam/Betting/Illegal",
+    "aka": [
+      "kubet.com", "kubet77.win", "kubet.vn",
+      "shbet.com", "shbet.vn",
+      "789bet.com", "789bet.top",
+      "new88.com", "new88.today",
+      "jun88.com", "jun88.tv",
+      "hi88.com", "hi88.vip",
+      "f8bet.com",
+      "123b.com",
+      "loto188.com",
+      "fi88.com",
+      "bk8.com", "bk8vn.com",
+      "fun88.com", "fun88vn.com",
+      "w88.com", "w88.link",
+      "m88.com", "ms88vn.com",
+      "188bet.com",
+      "v9bet.com",
+      "fb88.com",
+      "tamtam.so",
+      "go88.com",
+      "sunwin.com",
+      "riovip.club",
+      "clmm.me",
+      "chanlebank.com",
+      "taixiu.online"
+    ]
+  }
 }
